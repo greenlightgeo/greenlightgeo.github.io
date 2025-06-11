@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="shortcut icon" type="image/png" href="{{ '/media/Green Light Geospatial Icon.png' | relative_url }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if site.stylesheet %}
+    <link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">
+  {% endif %}
+</head>
+<body>
+  <nav>
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <!-- Add more navigation links as needed -->
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    &copy; {{ site.time | date: "%Y" }} {{ site.title }}
+  </footer>
+</body>
+</html>
