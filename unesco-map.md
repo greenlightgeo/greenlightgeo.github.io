@@ -24,7 +24,7 @@ As described by UNESCO:
 
 “UNESCO works to safeguard heritage so that future generations can enjoy, benefit and learn from the legacy of the past. In addition to its intrinsic value, heritage can be a driver of sustainable development and local job creation. Conserving the world’s natural heritage is also essential for the health of the planet and plays a key role in addressing the risk of natural and human-made disasters. Finally, safeguarding heritage brings countries and communities together, uniting people of different backgrounds around a common belief in the value of our history and environment. This is particularly crucial in times of emergency, when the safeguarding, continuation or rehabilitation of heritage provides an invaluable source of stability and hope for affected communities. Given the immense value of heritage for present and future generations, countering the growing threats it faces has never been more important.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dyrfNSJa7sw?si=0UxPpE_xWeQqzmDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="900" src="https://www.youtube.com/embed/dyrfNSJa7sw?si=0UxPpE_xWeQqzmDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *UNESCO video on the Natural World Heritage sites.*
 
@@ -42,7 +42,8 @@ As described by UNESCO, “Vienna developed from early Celtic and Roman settleme
 
 Below is the full 1830 map from Carl Graf Vasquez which was used in the Tribute map overlay. Other images of Vasquez’s 1830 map series can be [found here.](https://commons.wikimedia.org/wiki/Category:1830_Vienna_map_series_by_Carl_Graf_Vasquez)
 
-<img src="media/Vienna_Wien_1830_Vasquez_Innere_Stadt_60pct.jpg" alt="Vienna 1830 map graphic" width="900">
+<img src="media/Vienna_Wien_1830_Vasquez_Innere_Stadt_60pct.jpg" alt="Vienna 1830 map graphic" width="1200">
+
 *Historic map of Vienna by Carl Graf Vasquez.*
 
 #### Special thanks to the following organizations for making the Tribute Map possible:
