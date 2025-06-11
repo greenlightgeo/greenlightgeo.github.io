@@ -66,9 +66,9 @@ Map services and data are available from U.S. Wind Turbine Database, provided by
 ### Special Thanks
 Special thanks to the following organizations for making this map possible:
 
-Thanks to the **U.S. Geological Survey (USGS)** and **Lawrence Berkeley National Laboratory (LBNL)** and partners for sharing open data on the U.S. Solar (USPVDB) and U.S. Wind (USWTDB) database projects.
-Thanks to **World Resources Institute (WRI)** and partners for sharing open data on the Global Power Plant Database.
-Thanks to **OpenStreetMap** and its contributors for sharing their important work and open basemap.
-Thanks to **OpenLayers** and its contributors for their free and open source map library on which this map was built.
+* The **U.S. Geological Survey (USGS)** and **Lawrence Berkeley National Laboratory (LBNL)** and partners for sharing open data on the U.S. Solar (USPVDB) and U.S. Wind (USWTDB) database projects.
+* **World Resources Institute (WRI)** and partners for sharing open data on the Global Power Plant Database.
+* **OpenStreetMap** and its contributors for sharing their important work and open basemap.
+* **OpenLayers** and its contributors for their free and open source map library on which this map was built.
 
 *Wind turbines photo by Lukas Bieri.*
