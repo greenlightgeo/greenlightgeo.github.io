@@ -1,8 +1,7 @@
-# Green Light Geospatial  
-  *...Sharing some open geospatial projects...*
+# Maps 
 
 
-### 🗺️ OpenLayers Web Maps
+### 🗺️ Interactive Web Maps Built on Open Source
 
 
 ### 1. [*UNESCO World Heritage Tribute Map*](/unesco-map.md)
