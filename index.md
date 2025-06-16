@@ -8,6 +8,6 @@
 <li class="">Explore traditional and renewable power facilities with the Global Energy and Renewables Map. </li>
 <li class="">Explore and tour world heritage sites with the UNESCO World Heritage Tribute Map.</li>
 </ul>
-[*See the Maps*](/maps.md)
+[***See the Maps***](/maps.md)
 
-<img src="media/wind-turbine-green_mountains-square-800.jpg" alt="Wind turbine" width="800">
+<img src="media/wind-turbine-green_mountains.jpg" alt="Wind turbine" width="400">
