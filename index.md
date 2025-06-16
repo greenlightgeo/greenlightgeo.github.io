@@ -8,9 +8,6 @@
 <li class="">Explore traditional and renewable power facilities with the Global Energy and Renewables Map. </li>
 <li class="">Explore and tour world heritage sites with the UNESCO World Heritage Tribute Map.</li>
 </ul>
+[*See the Maps*](/maps.md)
 
-<div class="flex" style="margin-top:32px;line-height:1.5">
-<div class="wp-block-button" style="font-style:normal;font-weight:600"><a class="wp-block-button__link wp-element-button" href="https://greenlightgeo.github.io/maps.html" style="border-radius:100px;padding-top:16px;padding-right:32px;padding-bottom:16px;padding-left:32px">Learn More</a></div>
-</div>
-</div>
-
+<img src="media/wind-turbine-green_mountains-square-800.jpg" alt="Wind turbine" width="800">
