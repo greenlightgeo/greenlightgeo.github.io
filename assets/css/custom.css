@@ -8,10 +8,8 @@
   margin-right: 0;
   padding-left: 0;
   padding-right: 0;
-
-
-  
 }
+
 .custom-footer img {
   display: block;
   margin: 0 auto 10px auto;
@@ -19,4 +17,45 @@
 
 .bright-green {
   color: #66ff00; /* Bright green */
+}
+
+.banner-image {
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 300px; /* Adjust as needed */
+  width: 100%;
+  margin-bottom: 1.5em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-overlay {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.3); /* Optional: semi-transparent overlay for readability */
+  text-align: center;
+  color: #fff; /* Text color for contrast */
+}
+
+.banner-overlay .project-name {
+  font-size: 2.5em;
+  margin: 0.2em 0;
+}
+
+.banner-overlay .project-tagline {
+  font-size: 1.2em;
+  margin: 0.2em 0;
+}
+
+@media (max-width: 600px) {
+  .banner-image { height: 160px; }
+  .banner-overlay .project-name { font-size: 1.4em;}
+  .banner-overlay .project-tagline { font-size: 1em;}
 }
