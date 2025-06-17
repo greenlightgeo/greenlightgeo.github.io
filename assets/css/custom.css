@@ -56,11 +56,14 @@
 
 /* Make the tagline larger on all pages */
 .project-tagline {
-  font-size: 2em;   /* You can increase this as you like */
-  /* Optional tweaks */
+  font-size: 2em;  
+  font-style: italic;
+  
+  /* Optional tweaks 
   line-height: 1.3;
   font-weight: 400;
-  font-style: italic;
+  */
+
   
 }
 
