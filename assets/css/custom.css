@@ -1,0 +1,11 @@
+
+.custom-footer {
+  background-color: #e0e0e0; /* Light gray */
+  padding: 20px 0;
+  text-align: center;
+}
+.custom-footer img {
+  display: block;
+  margin: 0 auto 10px auto;
+}
+
