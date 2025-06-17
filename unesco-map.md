@@ -24,7 +24,7 @@ As described by UNESCO:
 
 “UNESCO works to safeguard heritage so that future generations can enjoy, benefit and learn from the legacy of the past. In addition to its intrinsic value, heritage can be a driver of sustainable development and local job creation. Conserving the world’s natural heritage is also essential for the health of the planet and plays a key role in addressing the risk of natural and human-made disasters. Finally, safeguarding heritage brings countries and communities together, uniting people of different backgrounds around a common belief in the value of our history and environment. This is particularly crucial in times of emergency, when the safeguarding, continuation or rehabilitation of heritage provides an invaluable source of stability and hope for affected communities. Given the immense value of heritage for present and future generations, countering the growing threats it faces has never been more important.”
 
-<iframe width="900" height="484" src="https://www.youtube.com/embed/dyrfNSJa7sw?si=0UxPpE_xWeQqzmDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/dyrfNSJa7sw?si=0UxPpE_xWeQqzmDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="width:100%;aspect-ratio:16/9;max-width:100%;border:none;display:block;" allowfullscreen></iframe>
 
 *UNESCO video on the Natural World Heritage sites.*
 
