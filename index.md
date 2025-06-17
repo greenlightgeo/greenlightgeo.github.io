@@ -32,7 +32,7 @@
 - Every project has its own unique challenges. Taking the time to evaluate your requirements and options, we can determine the right level of support, at the right time, to help you reach your project objectives.
 - With over 25 years of experience helping organizations navigate geospatial projects, together we can chart a course based on your needs and requirements.
 
-<img src="media/Projects-bridge-800.jpg" alt="Wind turbine" width="400">
+<img src="media/Projects-bridge-800.jpg" alt="Bridge" width="400">
 
 
 ## Contact
@@ -40,4 +40,7 @@
 * Support services for applications, data and projects.
 * Staff augmentation to assist you and your team with specific project tasks.
 Let’s discuss your project and requirements.
+
+<img src="media/windmills-square-800.jpg" alt="Wind turbine" width="400">
+
 
