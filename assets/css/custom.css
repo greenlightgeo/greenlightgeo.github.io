@@ -1,32 +1,23 @@
-
-.custom-footer {
-  background-color: #36454f;
-  width: 100vw;
-  padding: 20px 0;
-  text-align: center;
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 0;
-  padding-right: 0;
-}
-
-.custom-footer img {
-  display: block;
-  margin: 0 auto 10px auto;
-}
-
-.bright-green {
-  color: #66ff00; /* Bright green */
+/* Remove Cayman default header background and padding */
+.page-header {
+  background: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
 }
 
 .banner-image {
+  width: 100vw;         /* Full viewport width */
+  min-width: 100%;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 300px; /* Adjust as needed */
-  width: 100%;
-  margin-bottom: 1.5em;
+  height: 300px;        /* adjust as needed */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -59,3 +50,24 @@
   .banner-overlay .project-name { font-size: 1.4em;}
   .banner-overlay .project-tagline { font-size: 1em;}
 }
+
+.custom-footer {
+  background-color: #36454f;
+  width: 100vw;
+  padding: 20px 0;
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.custom-footer img {
+  display: block;
+  margin: 0 auto 10px auto;
+}
+
+.bright-green {
+  color: #66ff00; /* Bright green */
+}
+
