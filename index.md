@@ -15,14 +15,14 @@
 
 ## Service Areas
 
-| <img src="media/Application-Design.jpg" alt="Application-Design" width="300">  | <img src="media/Landcover-600.jpg" alt="Geo Data" width="300"> | <img src="media/Project-Consulting.jpg" alt="Projects" width="300"> |
+| <img src="media/Application-Design.jpg" alt="Application-Design" width="300">  | <img src="media/Landcover-600.jpg" alt="Geo Data" width="300"> | <img src="media/Project-Consulting.jpg" alt="Projects" width="400"> |
 |----------|----------|----------|
-| ### Applications | ### Geo Data | ### Projects |
-|Services for the geospatial application development lifecycle:  |Services to design and build spatial databases and processes:  | Services to plan and implement your geospatial project work:  |
-|* Requirements Analysis  |* Geodatabase Design and Data Modeling  |* Mapping and Cartography  |
-|* Application Design
-|* UI/UX and Workflows
-|* Demonstrations and Prototyping
-|* Product Management
+| **Applications** | **Geo Data** | **Projects** |
+|*Services for the geospatial application development lifecycle:*  |*Services to design and build spatial databases and processes:*  |*Services to plan and implement your geospatial project work:*  |
+|- Requirements Analysis  |- Geodatabase Design and Data Modeling  |- Mapping and Cartography  |
+|- Application Design
+|- UI/UX and Workflows
+|- Demonstrations and Prototyping
+|- Product Management
 
 
