@@ -2,7 +2,8 @@
 ### GIS and Geospatial Services
 ### *Geospatial for a Better World*
   
-## Explore renewable energy and world heritage with open source interactive web maps
+## Maps
+### *Explore renewable energy and world heritage with open source interactive web maps*
 <p class="">Search and discover interesting locations around the world with open data and mapping tools. </p>
 <ul class="wp-block-list">
 <li class="">Explore traditional and renewable power facilities with the Global Energy and Renewables Map. </li>
