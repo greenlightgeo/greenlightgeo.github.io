@@ -64,15 +64,10 @@
   
 }
 
-/* Optional: adjustments only for the homepage 
+/* Optional: adjustments only for the homepage  */
 .homepage .project-tagline {
-  font-size: 2em;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
 }
-*/
-
-
-
-
 
 
 
