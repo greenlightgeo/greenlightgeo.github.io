@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+banner_image: /media/NASA-2-Vector_crop-scaled.jpg
+---
+
 # Green Light Geospatial
 ### GIS and Geospatial Services
 ### *Geospatial for a Better World*
