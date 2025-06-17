@@ -22,7 +22,8 @@
 </head>
   
 <body>
-   <a id="skip-to-content" href="#content">Skip to the content.</a>
+  <body{% if page.homepage %} class="homepage"{% endif %}>
+  <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
       {% if page.banner_image %}
