@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Green Light Geospatial
 banner_image: /media/NASA-2-Vector_crop-scaled.jpg
 ---
 
