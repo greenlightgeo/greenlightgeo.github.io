@@ -2,6 +2,8 @@
 layout: default
 title: Green Light Geospatial
 banner_image: /media/NASA-2-Vector_crop-scaled.jpg
+permalink: /
+homepage: true
 ---
 
 # *Geospatial for a Better World*
