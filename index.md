@@ -4,9 +4,7 @@ title: Green Light Geospatial
 banner_image: /media/NASA-2-Vector_crop-scaled.jpg
 ---
 
-# Green Light Geospatial
-### GIS and Geospatial Services
-### *Geospatial for a Better World*
+# *Geospatial for a Better World*
   
 ## Maps
 ### *Explore renewable energy and world heritage with open source interactive web maps*
