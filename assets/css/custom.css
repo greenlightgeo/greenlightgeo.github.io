@@ -1,9 +1,16 @@
 
 .custom-footer {
   background-color: #36454f;
-  width: 100vw;
-
+  width: 100%;
+  padding: 20px 0;
   text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+  box-sizing: border-box;
+
+  
 }
 .custom-footer img {
   display: block;
