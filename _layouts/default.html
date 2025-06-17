@@ -38,8 +38,13 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-  <footer>
-    &copy; {{ site.time | date: "%Y" }} {{ site.title }}
-  </footer>
+    <footer class="site-footer custom-footer">
+      <div class="wrapper">
+        <img src="media/Green-Light-Geospatial-Logo2.jpg" alt="Logo" width="200">
+        <p>© {{ site.title }} {{ site.time | date: "%Y" }}</p>
+      </div>
+    </footer>
+
+      
 </body>
 </html>
