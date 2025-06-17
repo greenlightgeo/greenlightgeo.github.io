@@ -1,5 +1,5 @@
-/* Remove Cayman default header background and padding */
-.homepage .page-header {
+/* Remove Cayman default header background and padding  >> .homepage   */
+.page-header {
   background: none !important;
   padding: 0 !important;
   margin: 0 !important;
