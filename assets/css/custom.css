@@ -1,4 +1,4 @@
-/* Remove Cayman default header background and padding  >> .homepage   */
+/* Remove Cayman default header background and padding  >> .homepage  
 .page-header {
   background: none !important;
   padding: 0 !important;
@@ -6,6 +6,7 @@
   border: none !important;
   margin-bottom: 0;
 }
+ */
 
 .banner-image {
   position: relative;
