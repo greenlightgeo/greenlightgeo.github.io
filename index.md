@@ -13,6 +13,7 @@ banner_image: /media/NASA-2-Vector_crop-scaled.jpg
 Search and discover interesting locations around the world with open data and mapping tools.
 * Explore traditional and renewable power facilities with the Global Energy and Renewables Map.
 * Explore and tour world heritage sites with the UNESCO World Heritage Tribute Map.
+  
 [***See the Maps***](/maps.md)
 
 <img src="media/wind-turbine-green_mountains.jpg" alt="Wind turbine" width="800">
