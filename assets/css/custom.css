@@ -88,13 +88,13 @@
 }
 
 .site-banner-logo {
-  height: 32px;    /* Adjust as needed */
+  height: 4px;    /* Adjust as needed */
   width: auto;
   margin-right: 0.7em;
 }
 
 .site-banner-title {
-  color: #222;
+  color: #66ff00;
   font-size: 1.2em;
   font-weight: bold;
   letter-spacing: 0.02em;
