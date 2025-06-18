@@ -9,7 +9,7 @@ homepage: true
 ## Services
 ### *Geospatial for a Better World*
 
-*Green Light Geospatial* is available to support organizations with geospatial applications, data and projects. Our goal is helping organizations achieve the benefits and potential of geospatial, for a better world.
+*Green Light Geospatial* is available to support organizations with geospatial applications, data and projects. Our goal is helping organizations achieve the potential and benefits of geospatial technology, for a better world.
 
 | <img src="media/Application-Design.jpg" alt="Application-Design" width="300">  | <img src="media/Landcover-600.jpg" alt="Geo Data" width="300"> | <img src="media/Project-Consulting.jpg" alt="Projects" width="400"> |
 |----------|----------|----------|
