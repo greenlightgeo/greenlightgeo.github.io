@@ -40,7 +40,17 @@
       <!-- ...rest of header... -->
     </header>
 
+    
+    {% unless page.homepage %}
+      <div class="site-banner">
+        <a href="{{ '/' | relative_url }}" class="site-banner-link">
+          <img src="media/Green-Light-Geospatial-Logo2.jpg" alt="Site Logo" class="site-banner-logo">
+          <span class="site-banner-title">{{ site.title }}</span>
+        </a>
+      </div>
+    {% endunless %}
 
+    
     <main id="content" class="main-content" role="main">
       {{ content }}
     </main>
