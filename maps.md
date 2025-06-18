@@ -1,7 +1,7 @@
 # Open Source Maps 
 
 
-### 🗺️ Interactive Web Maps Built on Open Source Data and Tools
+### 🗺️ Interactive Web Maps Built with Open Source Data, Tools and Platforms
 
 
 ### 1. [*UNESCO World Heritage Tribute Map*](/unesco-map.md)
