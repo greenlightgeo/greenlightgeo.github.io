@@ -70,6 +70,38 @@
 }
 
 
+/*For the banner hyperlink back to homepage on all other pages */
+.site-banner {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background: #f5f5f5;
+  padding: 0.4em 1em;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 1.5em;
+}
+
+.site-banner-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.site-banner-logo {
+  height: 32px;    /* Adjust as needed */
+  width: auto;
+  margin-right: 0.7em;
+}
+
+.site-banner-title {
+  color: #222;
+  font-size: 1.2em;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+}
+
+
+/* Footer Section */
 
 .custom-footer {
   background-color: #36454f;
