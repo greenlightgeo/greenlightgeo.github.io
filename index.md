@@ -5,8 +5,6 @@ banner_image: /media/NASA-2-Vector_crop-scaled.jpg
 permalink: /
 homepage: true
 ---
-
-# *Geospatial for a Better World*
   
 ## Maps
 ### *Explore renewable energy and world heritage with open source interactive web maps*
