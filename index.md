@@ -1,15 +1,17 @@
 ---
 layout: default
 title: Green Light Geospatial
-banner_image: /media/NASA-2-Vector_crop-scaled.jpg
+description: Welcome to Green Light Geospatial, providing GIS and geospatial services and support for your project.
+image: /media/NASA-2-Vector_crop-scaled.jpg
 permalink: /
+banner_image: /media/NASA-2-Vector_crop-scaled.jpg
 homepage: true
 ---
   
 ## Services
 ### *Geospatial for a Better World*
 
-*Green Light Geospatial* supports teams with geospatial tech, data and projects. Our goal is helping organizations achieve the potential and benefits of GIS and geospatial technology, and working for a better world.
+Green Light Geospatial supports teams with geospatial tech, data and projects. Our goal is helping organizations achieve the potential and benefits of GIS and geospatial technology, and working for a better world.
 
 | <img src="media/Application-Design.jpg" alt="Application-Design" width="300">  | <img src="media/Landcover-600.jpg" alt="Geo Data" width="300"> | <img src="media/Project-Consulting.jpg" alt="Projects" width="400"> |
 |----------|----------|----------|
