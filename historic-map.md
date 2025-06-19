@@ -1,3 +1,11 @@
+---
+layout: default
+title: Historic Strasbourg 1800 Live Map
+description: The Historic Strasbourg Live Map is an interactive web map which allows you to explore the historic fortified city and citadel of Strasbourg.
+image: /media/Historic Strasbourg 1800 Live Map.JPG
+permalink: /historic-map
+---
+
 # Historic Strasbourg 1800 Live Map
 
 <img src="media/Strasbourg Plan 1800 web.jpg" alt="Strasbourg Plan Map 1800" width="800">
@@ -14,6 +22,6 @@ Then click on the “Citadel” command on the map toolbar to zoom to the actual
 The [**Historic Strasbourg 1800 Live Map**](https://greenlightgeo.github.io/ol-maps/maps/old_strasbourg/) was built using the OpenLayers map library, and uses a historic plan map image and OpenStreetMap as its basemap foundation.  Click the link above or the image below to open the map.
 
 <a href="https://greenlightgeo.github.io/ol-maps/maps/old_strasbourg/">
-  <img src="media/Historic Strasbourg Live Map - Robert Georg Author - GLG.JPG" alt="Historic Strasbourg Live Map Image" width="900">
+  <img src="media/Historic Strasbourg 1800 Live Map.JPG" alt="Historic Strasbourg Live Map Image" width="900">
 </a>
 
