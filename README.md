@@ -1,2 +1,2 @@
 # greenlightgeo.github.io
-Sharing some work powered by open source geospatial projects.
+Geospatial for a Better World.  Sharing some work powered by open source geospatial projects.
