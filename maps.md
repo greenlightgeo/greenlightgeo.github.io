@@ -1,3 +1,11 @@
+---
+layout: default
+title: Open Source Web Maps
+description: Search and explore interesting locations around the world with interactive web maps built with open source geospatial data, tools and platforms.
+image: /media/Rome-Tiber-River.jpg
+permalink: /maps
+---
+
 # Open Source Web Maps 
 
 ### Interactive Web Maps Built with Open Source Data, Tools and Platforms
