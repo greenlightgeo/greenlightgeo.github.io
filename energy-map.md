@@ -1,3 +1,11 @@
+---
+layout: default
+title: Global Energy and Renewables Map
+description: The Global Energy and Renewables Map is an interactive web map where you can explore global power plants and U.S. solar and wind projects.
+image: /media/Global-Energy-and-Renewables-Map-Green-Light-Geospatial.jpg
+permalink: /energy-map
+---
+
 # Global Energy and Renewables Map
 
 <img src="media/wind-turbine-green_mountains.jpg" alt="Wind turbine" width="700">
