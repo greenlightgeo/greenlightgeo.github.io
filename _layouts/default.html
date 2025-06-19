@@ -30,12 +30,14 @@
         <div class="banner-image" style="background-image: url('{{ page.banner_image | relative_url }}');">
           <div class="banner-overlay">
             <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-            <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+            <h2 class="project-tagline">Geospatial for a Better World</h2>
+            <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
           </div>
         </div>
       {% else %}
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        <h2 class="project-tagline">Geospatial for a Better World</h2>
+            <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
       {% endif %}
       <!-- ...rest of header... -->
     </header>
