@@ -1,3 +1,11 @@
+---
+layout: default
+title: UNESCO World Heritage Tribute Map
+description: The UNESCO World Heritage Tribute Map is an interactive web map where visitors can explore and learn about UNESCO world heritage sites.
+image: /media/UNESCO-World-Heritage-Tribute-Map-Green-Light-Geospatial-5.jpg
+permalink: /unesco-map
+---
+
 # UNESCO World Heritage Tribute Map
 
 <img src="media/Rome-Tiber-River.jpg" alt="Rome, the Tiber River" width="900">
