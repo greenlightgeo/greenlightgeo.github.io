@@ -27,13 +27,15 @@ Green Light Geospatial supports teams with geospatial tech, data and projects. O
 ## Experience
 ### *Navigating geospatial project challenges*
 - Every project has its own unique challenges. Taking the time to evaluate your requirements and options, we can determine the right level of support, at the right time, to help you reach your project objectives.
-- With over 25 years of experience helping organizations navigate geospatial projects, together we can chart a course based on your needs and requirements. Let’s discuss your project and requirements.
+- With over 25 years of experience helping organizations navigate geospatial projects, we can chart a course based on your needs and requirements. Let’s discuss your project and requirements.
 
 <img src="media/Projects-bridge-800.jpg" alt="Bridge" width="400">
 
 ### *Ready to assist with your geospatial project needs*
 * Support services for applications, data and projects.
 * Staff augmentation to assist you and your team with specific project tasks.
+
+[***Learn more about us***](/about.md)
 
 <img src="media/windmills-square-800.jpg" alt="Wind turbine" width="400">
 
