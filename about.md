@@ -1,16 +1,17 @@
 ---
 layout: default
-title: About Green Light Geospatial
+title: Green Light Geospatial
 description: Green Light Geospatial supports teams with GIS and geospatial technology, data and projects.
 image: /media/northern-lights-norway-2.jpg
 permalink: /about
 ---
 
-# About
-### About Green Light Geospatial
+# About Green Light Geospatial
 Green Light Geospatial supports teams with geospatial tech, data and projects. Our goal is helping organizations achieve the potential and benefits of GIS and geospatial technology, and working for a better world.
 
-For information about our services and experience, please see the information on [**our homepage**](https://greenlightgeo.github.io).  For inquiries about our services for your project, please visit our [**page on LinkedIn**](https://www.linkedin.com/company/green-light-geospatial) and send a message.
+With over 25 years of experience helping organizations navigate geospatial challenges, we can chart a course based on your needs and requirements.
+
+For information about our services and experience, please see the information on [our homepage](https://greenlightgeo.github.io).  For inquiries about our services for your project, please visit our [page on LinkedIn](https://www.linkedin.com/company/green-light-geospatial) and send a message.
 
 While you’re here, please explore our interactive web maps which showcase open data, tools and platforms. 
 The [Global Energy and Renewables Map](https://greenlightgeo.github.io/energy-map) allows you to explore global power plants and U.S. solar and wind energy projects using text search and map visualization tools. 
