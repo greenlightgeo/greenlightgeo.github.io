@@ -1,3 +1,11 @@
+---
+layout: default
+title: About Green Light Geospatial
+description: Green Light Geospatial supports teams with GIS and geospatial technology, data and projects.
+image: /media/northern-lights-norway-2.jpg
+permalink: /about
+---
+
 # About
 ### About Green Light Geospatial
 Green Light Geospatial supports teams with geospatial tech, data and projects. Our goal is helping organizations achieve the potential and benefits of GIS and geospatial technology, and working for a better world.
@@ -9,3 +17,5 @@ The [Global Energy and Renewables Map](https://greenlightgeo.github.io/energy-ma
 Also, the [UNESCO World Heritage Tribute Map](https://greenlightgeo.github.io/unesco-map) allows you to explore interesting World Heritage sites and the important work of UNESCO.
 
 Thank you for visiting GreenLightGEO.
+
+<img src="media/northern-lights-norway-2.jpg" alt="Northern Lights Norway" width="700">
