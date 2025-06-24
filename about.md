@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Green Light Geospatial
+title: About Green Light Geospatial
 description: Green Light Geospatial supports teams with GIS and geospatial technology, data and projects.
 image: /media/northern-lights-norway-2.jpg
 permalink: /about
 ---
 
-# About Green Light Geospatial
+## Geospatial for a Better World
 Green Light Geospatial supports teams with geospatial tech, data and projects. Our goal is helping organizations achieve the potential and benefits of GIS and geospatial technology, and working for a better world.
 
 With over 25 years of experience helping organizations navigate geospatial challenges, we can chart a course based on your needs and requirements.
