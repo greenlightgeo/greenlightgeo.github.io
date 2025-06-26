@@ -10,6 +10,11 @@
     <link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">
   {% endif %}
 
+{% if page.url == "/" %}
+  <!-- Google Search Console Verification -->
+  <meta name="google-site-verification" content="UiYNjzfW81yOpT4GVk-SFNc4--feY1OAZpwRmAYaQu0" />
+{% endif %}
+  
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
