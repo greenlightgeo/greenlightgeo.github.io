@@ -10,8 +10,9 @@
     <link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">
   {% endif %}
 
-<!-- Google Search Console Verification -->
-{% if page.homepage %}
+
+{% if page.homepage and page.homepage != "" and page.homepage != nil %}
+  <!-- Google Search Console Verification -->
   <meta name="google-site-verification" content="UiYNjzfW81yOpT4GVk-SFNc4--feY1OAZpwRmAYaQu0" />
 {% endif %}
   
