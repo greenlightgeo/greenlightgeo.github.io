@@ -12,8 +12,8 @@ permalink: /unesco-map
 
 The UNESCO World Heritage Tribute Map is an interactive web map launched in October 2023 as a tribute to UNESCO’s preservation and conservation work. The web map allows visitors to search, discover and explore the many cultural and natural UNESCO world heritage sites and their locations.
 
-## Why create a map tribute to the UNESCO World Heritage List?
-The purpose of the web map is educational, to help promote awareness and understanding of the UNESCO world heritage sites and the important work of UNESCO. It is intended to allow visitors an interesting geographic way to discover and learn about the heritage sites with information from UNESCO and explore the geography around the sites.
+## A UNESCO World Heritage Sites Map for Education and Exploration
+The purpose of the map is educational, to help promote awareness and understanding of the UNESCO world heritage sites and the important work of UNESCO. It is intended to allow visitors an interesting geographic way to discover and learn about the heritage sites with information from UNESCO and explore the geography around the sites.
 
 Today, more than ever, conservation work is crucial for the overall safety of our world. As UNESCO has pointed out, safeguarding heritage is critical as it brings countries and communities together, uniting people around a common belief in the value of our history and environment. In the next section you can learn more about UNESCO and why this preservation work is so important, with links to UNESCO site information.
 
@@ -43,7 +43,7 @@ As described by UNESCO:
 *  [World Heritage in Danger](https://whc.unesco.org/en/158/)
 *  [Preserving cultural heritage to build a better world](https://www.unesco.org/en/cultural-heritage-7-successes-unescos-preservation-work)
 
-## Why Vienna for the historic map overlay?
+## The City of Vienna Historical Map and UNESCO
 The World Heritage Committee inscribed the Historic Centre of Vienna on the [list of World Heritage in Danger](https://whc.unesco.org/en/news/1684) due to high-rise projects in the middle of the Austrian capital. Users of the Tribute map can see how a historic map overlay can provide a quick understanding of the scale of modern changes impacting a cultural site, in this case using a historic map of Vienna’s city center that is now almost 200 years old. The Tribute map’s swipe and opacity tools allow the user to quickly compare views of the historic city layout and the current layout. It provides an interesting glimpse into the past and changes made over the past two centuries.
 
 As described by UNESCO, “Vienna developed from early Celtic and Roman settlements into a Medieval and Baroque city to become the capital of the Austro-Hungarian Empire. It played an essential role as a leading European music center, from the great age of Viennese Classicism through the early part of the 20th century. The historic center of Vienna is rich in architectural ensembles, including Baroque castles and gardens, as well as the late-19th century Ringstrasse. The site was inscribed on the World Heritage List in 2001.”
