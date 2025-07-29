@@ -12,7 +12,7 @@ permalink: /energy-map
 
 The Global Energy and Renewables Map is an interactive web map launched in December 2023 to help promote awareness of some important traditional and renewable energy database resources.
 
-The map combines three open energy datasets and allows visitors to explore global power plants and U.S. solar and wind energy projects using text search and map visualization tools.
+The map combines three open energy datasets and allows visitors to explore global power plants and U.S. solar and wind energy projects using text search and map visualization tools. It serves as both a traditional thermal energy plant map and a renewable energy map.
 
 ## The Purpose of the Global Energy and Renewables Map
 Understanding the distribution and location of existing thermal and renewable energy facilities is just one small, but important step towards advancing the green transition to renewables. The Global Energy and Renewables Map includes data layers from three open databases that are available to help organizations in this work:
@@ -31,13 +31,13 @@ The [Global Energy and Renewables Map](https://greenlightgeo.github.io/ol-maps/m
 
 As you get started using the map, check the Help document (press the green “Help” button) to see the map legend and look up each individual layer’s popup attributes. There’s also a quick description of each of the map tools available on the tool panel.  The tool panel provides a “Sample Searches” picklist with a few searches to help you get started and see some results on each layer. When multiple features are selected, the map will zoom to their extent, and then you can press the ‘Tour’ button to zoom in to each selected facility individually. You can then view the feature’s popup information and also click the provided link to view the location in Google Maps satellite view.
 
-## Learning more about the Global Energy and Renewables Databases
+## Learning more about the Global Energy and Renewable Energy Map Databases
 This section provides a brief introduction to the three energy databases used in the Global Energy and Renewables map. It includes some key excerpts of information provided on the website of each database.
 
 Having each of the three databases combined together in a single map can provide new insights and ideas for analysis.  With this said, each of the databases do provide their own dedicated map viewer which offer excellent capabilities for exploration of each dataset. Links are provided to each viewer in the sections below.
 
 ### Global Power Plant Database
-The [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase) from the [World Resources Institute (WRI)](https://www.wri.org/) includes features for thermal and renewable energy power plants:
+The [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase) from the [World Resources Institute (WRI)](https://www.wri.org/) includes features for thermal and renewable energy power plants around the world:
 
 “The Global Power Plant Database is a comprehensive, open source database of power plants around the world. It centralizes power plant data to make it easier to navigate, compare and draw insights for one’s own analysis.”
 
