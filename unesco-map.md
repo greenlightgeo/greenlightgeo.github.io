@@ -58,7 +58,8 @@ As described by UNESCO, “Vienna developed from early Celtic and Roman settleme
 <iframe src="https://www.youtube.com/embed/ADNXglLgB0A?si=Z4-uPB1GlZa7xElV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="width:100%;aspect-ratio:16/9;max-width:100%;border:none;display:block;" allowfullscreen></iframe>
 
 
-### Special thanks to the following organizations for making the Tribute Map possible
+### Special Thanks
+Special thanks to the following organizations for making this map possible:
 * Thanks to **UNESCO** for sharing open data on its globally important World Heritage Sites.
 *  Thanks to **OpenStreetMap** and its contributors for sharing their important work and open basemap.
 * Thanks to **OpenLayers** and its contributors for an excellent free and open source map library on which this map was built.
