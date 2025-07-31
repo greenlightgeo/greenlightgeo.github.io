@@ -46,15 +46,19 @@ As described by UNESCO:
 ## The City of Vienna Historical Map and UNESCO
 The World Heritage Committee inscribed the Historic Centre of Vienna on the [list of World Heritage in Danger](https://whc.unesco.org/en/news/1684) due to high-rise projects in the middle of the Austrian capital. Users of the Tribute map can see how a historic map overlay can provide a quick understanding of the scale of modern changes impacting a cultural site, in this case using a historic map of Vienna’s city center that is now almost 200 years old. The Tribute map’s swipe and opacity tools allow the user to quickly compare views of the historic city layout and the current layout. It provides an interesting glimpse into the past and changes made over the past two centuries.
 
-As described by UNESCO, “Vienna developed from early Celtic and Roman settlements into a Medieval and Baroque city to become the capital of the Austro-Hungarian Empire. It played an essential role as a leading European music center, from the great age of Viennese Classicism through the early part of the 20th century. The historic center of Vienna is rich in architectural ensembles, including Baroque castles and gardens, as well as the late-19th century Ringstrasse. The site was inscribed on the World Heritage List in 2001.”
-
 Below is the full 1830 map from Carl Graf Vasquez which was used in the Tribute map overlay. Other images of Vasquez’s 1830 map series can be [found here.](https://commons.wikimedia.org/wiki/Category:1830_Vienna_map_series_by_Carl_Graf_Vasquez)
 
 <img src="media/Vienna_Wien_1830_Vasquez_Innere_Stadt_60pct.jpg" alt="Vienna 1830 map graphic" width="1200">
 
 *Historic map of Vienna by Carl Graf Vasquez.*
 
-#### Special thanks to the following organizations for making the Tribute Map possible:
+As described by UNESCO, “Vienna developed from early Celtic and Roman settlements into a Medieval and Baroque city to become the capital of the Austro-Hungarian Empire. It played an essential role as a leading European music center, from the great age of Viennese Classicism through the early part of the 20th century. The historic center of Vienna is rich in architectural ensembles, including Baroque castles and gardens, as well as the late-19th century Ringstrasse. The site was inscribed on the World Heritage List in 2001.”
+
+### Brief map demonstration
+<iframe src="https://www.youtube.com/embed/ADNXglLgB0A?si=Z4-uPB1GlZa7xElV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="width:100%;aspect-ratio:16/9;max-width:100%;border:none;display:block;" allowfullscreen></iframe>
+
+
+### Special thanks to the following organizations for making the Tribute Map possible
 * Thanks to **UNESCO** for sharing open data on its globally important World Heritage Sites.
 *  Thanks to **OpenStreetMap** and its contributors for sharing their important work and open basemap.
 * Thanks to **OpenLayers** and its contributors for an excellent free and open source map library on which this map was built.
