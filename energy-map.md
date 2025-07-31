@@ -71,6 +71,10 @@ The [U.S. Wind Turbine Database (USWTDB)](https://eerscmap.usgs.gov/uswtdb/), al
 
 Map services and data are available from U.S. Wind Turbine Database, provided by the U.S. Geological Survey, American Clean Power Association, and Lawrence Berkeley National Laboratory via [https://eerscmap.usgs.gov/uswtdb](https://eerscmap.usgs.gov/uswtdb).
 
+### Brief map demonstration
+<iframe src="https://www.youtube.com/embed/fnDh88Zqhu4?si=-BCcHuDV27hcYCCa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="width:100%;aspect-ratio:16/9;max-width:100%;border:none;display:block;" allowfullscreen></iframe>
+
+
 ### Special Thanks
 Special thanks to the following organizations for making this map possible:
 
