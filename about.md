@@ -7,9 +7,9 @@ permalink: /about
 ---
 
 ## Geospatial for a Better World
-Green Light Geospatial supports teams with geospatial tech, data and projects. Our goal is helping organizations achieve the potential and benefits of GIS and geospatial technology, and working for a better world.
+Green Light Geospatial supports teams with GIS and geospatial tech, data and projects. Our goal is helping organizations achieve the potential and benefits of GIS and geospatial technology, and working for a better world.
 
-With over 25 years of experience helping organizations navigate geospatial challenges, we can chart a course based on your needs and requirements.
+We have extensive experience helping organizations navigate geospatial challenges. Together we can help you chart a course based on your needs and requirements.
 
 For information about our services and experience, please see the information on [our homepage](https://greenlightgeo.github.io).  For inquiries about our services for your project, please visit our [page on LinkedIn](https://www.linkedin.com/company/green-light-geospatial) and send a message.
 
