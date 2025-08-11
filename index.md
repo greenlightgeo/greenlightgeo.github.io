@@ -11,7 +11,7 @@ homepage: true
 ## Services
 ### *Geospatial for a Better World*
 
-Green Light Geospatial supports teams with geospatial tech, data and projects. Our goal is helping organizations achieve the potential and benefits of GIS and geospatial technology, and working for a better world.
+Green Light Geospatial supports teams with GIS and geospatial tech, data and projects. Our goal is helping organizations achieve the potential and benefits of GIS and geospatial technology, and working for a better world.
 
 | <img src="media/Application-Design.jpg" alt="Application-Design" width="300">  | <img src="media/Landcover-600.jpg" alt="Geo Data" width="300"> | <img src="media/Project-Consulting.jpg" alt="Projects" width="400"> |
 |----------|----------|----------|
@@ -27,7 +27,7 @@ Green Light Geospatial supports teams with geospatial tech, data and projects. O
 ## Experience
 ### *Navigating geospatial project challenges*
 - Every project has its own unique challenges. Taking the time to evaluate your requirements and options, we can determine the right level of support, at the right time, to help you reach your project objectives.
-- With over 25 years of experience helping organizations navigate geospatial projects, we can chart a course based on your needs and requirements. Let’s discuss your project and requirements.
+- We have extensive experience helping organizations navigate geospatial projects. Let us help you chart a course based on your needs and requirements.
 
 <img src="media/Projects-bridge-800.jpg" alt="Bridge" width="400">
 
